@@ -21,7 +21,7 @@
 ##########################################################################################
 
 # Parameters
-DIR_OBJ='obj'
+DIR_OBJ='.obj'
 DIR_SRC='src'
 DIR_INC='inc'
 EXECUTABLE_NAME='main'
