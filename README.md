@@ -1,2 +1,2 @@
 # LinuxLuaProjectTemplate
-Script-builder for simple Linux projects with Lua and signal-handling
+Script-builder for simple C/C++ Linux projects with Lua and signal-handling
